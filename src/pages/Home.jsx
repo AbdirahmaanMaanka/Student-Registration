@@ -7,10 +7,10 @@ function Home() {
             <div class="grid items-center grid-cols-1 gap-12 lg:grid-cols-2">
                 <div>
                     <h1 class="text-4xl font-bold text-black sm:text-6xl lg:text-7xl">
-                        Collaborate remotely, with
+                        Welcome to Our Home page, with
                         <div class="relative inline-flex">
                             <span class="absolute inset-x-0 bottom-0 border-b-[30px] border-[#4ADE80]"></span>
-                            <h1 class="relative text-4xl font-bold text-black sm:text-6xl lg:text-7xl">Postcrafts.</h1>
+                            <h1 class="relative text-4xl font-bold text-black sm:text-6xl lg:text-7xl">Student Registration.</h1>
                         </div>
                     </h1>
 
